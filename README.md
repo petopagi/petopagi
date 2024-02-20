@@ -35,9 +35,3 @@
  > Made by petopagi - README.md v.1.0
  
   ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
-  
-
- <br><br>
-<p>👀 &nbsp;Visitors</p>
- <br>
-<img align="left" src="https://profile-counter.glitch.me/natrixdev/count.svg" />

@@ -6,7 +6,7 @@
 
 
 > ### ⚙️ Mastered languages: 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&duration=1000&pause=750&color=5522F7&random=false&width=435&lines=Basics+in+python;Basics+in+javascript;HTML;CSS;golang)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&duration=1000&pause=750&color=5522F7&random=false&width=435&lines=Basics+in+python;Basics+in+javascript;HTML;CSS;GOLANG)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 

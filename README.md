@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=33F741&background=1E42FF00&center=true&width=435&lines=PETOPAGI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=33F741&background=1E42FF00&center=true&width=435&lines=PETOPAGI)](https://github.com/petopagi)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=E-Z.BIO%2FPETOPAGI)](https://e-z.bio/petopagi)
 

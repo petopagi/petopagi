@@ -14,7 +14,7 @@ working in affiliate marketing scene
 ```
 Call me Peter
 
-📂・**Latest.project [vital.rip](https://vital,rip)**
+📂・**Latest.project [vital.rip](https://vital.rip)**
 
 ✔️・**My bio [autism.host](https://autishm.host/petopagi)**
 

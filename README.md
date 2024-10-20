@@ -7,7 +7,10 @@ petopagi = 'peter'
 print(f'Follow {petopagi} on Github')
 ```
 ```sh-session
-currently learning python and affiliate marketing
+currently learning python
+```
+```sh-session
+working in affiliate marketing scene
 ```
 Call me Peter
 

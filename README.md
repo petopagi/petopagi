@@ -18,6 +18,14 @@
 - **Stack**: TypeScript, React/Next.js, Node.js, Go, Python
 - **I like**: Shipping minimal, reliable features, then iterating quickly
 
+### Tech I use
+
+<div align="center">
+
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,python,postgres,redis,docker,vercel,git&perline=11" />
+
+</div>
+
 ### GitHub stats
 
 <div align="center">
@@ -54,6 +62,32 @@
       alt="GitHub Streak"
     />
   </picture>
+
+</div>
+
+### Activity graph
+
+<div align="center">
+
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=petopagi&theme=github-compact&hide_border=true" />
+
+</div>
+
+### Trophies
+
+<div align="center">
+
+  <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=petopagi&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
+</div>
+
+### Quote of the day
+
+<div align="center">
+
+  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
 
 <details>
   <summary>Fun facts</summary>

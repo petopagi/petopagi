@@ -24,11 +24,11 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=petopagi&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=petopagi&show_icons=true&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=petopagi&show_icons=true&hide_border=true&rank_icon=github"
+      src="https://github-readme-stats.vercel.app/api?username=petopagi&show_icons=true&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"
       alt="GitHub Stats"
     />
   </picture>
@@ -54,6 +54,14 @@
       alt="GitHub Streak"
     />
   </picture>
+
+</div>
+
+### Metrics (includes private)
+
+<div align="center">
+
+  <img alt="GitHub metrics (private-inclusive)" src="https://raw.githubusercontent.com/petopagi/petopagi/main/assets/metrics.svg" />
 
 </div>
 

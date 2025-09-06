@@ -81,14 +81,6 @@
 
 </div>
 
-### Quote of the day
-
-<div align="center">
-
-  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
 <details>
   <summary>Fun facts</summary>
 

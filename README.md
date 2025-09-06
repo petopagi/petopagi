@@ -55,27 +55,6 @@
     />
   </picture>
 
-</div>
-
-### Metrics (includes private)
-
-<div align="center">
-
-  <img alt="GitHub metrics (private-inclusive)" src="https://raw.githubusercontent.com/petopagi/petopagi/main/assets/metrics.svg" />
-
-</div>
-
-### Contribution graph – Snake
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/petopagi/petopagi/output/github-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/petopagi/petopagi/output/github-snake.svg" />
-  </picture>
-
-</div>
-
 <details>
   <summary>Fun facts</summary>
 
